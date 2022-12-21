@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "https://.github.io/csb-pbch0/static/css/main.1a32f03f.chunk.css",
+    "main.js": "https://.github.io/csb-pbch0/static/js/main.43a5c97a.chunk.js",
+    "main.js.map": "https://.github.io/csb-pbch0/static/js/main.43a5c97a.chunk.js.map",
+    "runtime-main.js": "https://.github.io/csb-pbch0/static/js/runtime-main.5ce8a1b7.js",
+    "runtime-main.js.map": "https://.github.io/csb-pbch0/static/js/runtime-main.5ce8a1b7.js.map",
+    "static/js/2.14a38e76.chunk.js": "https://.github.io/csb-pbch0/static/js/2.14a38e76.chunk.js",
+    "static/js/2.14a38e76.chunk.js.map": "https://.github.io/csb-pbch0/static/js/2.14a38e76.chunk.js.map",
+    "index.html": "https://.github.io/csb-pbch0/index.html",
+    "precache-manifest.02cebac1486153e5add56b382d517400.js": "https://.github.io/csb-pbch0/precache-manifest.02cebac1486153e5add56b382d517400.js",
+    "service-worker.js": "https://.github.io/csb-pbch0/service-worker.js",
+    "static/css/main.1a32f03f.chunk.css.map": "https://.github.io/csb-pbch0/static/css/main.1a32f03f.chunk.css.map",
+    "static/js/2.14a38e76.chunk.js.LICENSE.txt": "https://.github.io/csb-pbch0/static/js/2.14a38e76.chunk.js.LICENSE.txt",
+    "static/media/customer.svg": "https://.github.io/csb-pbch0/static/media/customer.3041ae7f.svg",
+    "static/media/dashboard.svg": "https://.github.io/csb-pbch0/static/media/dashboard.5744b765.svg",
+    "static/media/loan.svg": "https://.github.io/csb-pbch0/static/media/loan.09afe025.svg",
+    "static/media/profile.png": "https://.github.io/csb-pbch0/static/media/profile.00528edc.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5ce8a1b7.js",
+    "static/js/2.14a38e76.chunk.js",
+    "static/css/main.1a32f03f.chunk.css",
+    "static/js/main.43a5c97a.chunk.js"
+  ]
+}
